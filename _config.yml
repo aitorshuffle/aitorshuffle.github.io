@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Aitor Alvarez-Gila"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Aitor Alvarez-Gila"
+description              : &description "Color, Computer Vision and Machine Learning scientist. Researcher at Tecnalia. PhD candidate in deep learning at Computer Vision Center/Universitat Autònoma de Barcelona. Photographer (not really)."
+url                      : https://aitorshuffle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "aitorshuffle.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Aitor Alvarez-Gila"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Color, Computer Vision and Machine Learning scientist. Researcher at Tecnalia. PhD candidate in deep learning at Computer Vision Center/Universitat Autònoma de Barcelona. Photographer (nah, not really)"
+  location         : "Bilbao/Barcelona, Spain"
+  employer         : "www.tecnalia.com"
+  googlescholar    : "https://scholar.google.com/citations?user=LZcrB3kAAAAJ&hl=en&oi=ao"
   email            : 
   uri              : 
   bitbucket        :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "aitorshuffle"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/aitoralvarezgila"
+  orcid            : "http://orcid.org/0000-0002-5955-3211"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@aitorshuffle"
   vine             :
   weibo            :
   xing             :
