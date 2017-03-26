@@ -79,9 +79,12 @@ analytics:
 author:
   name             : "Aitor Alvarez-Gila"
   avatar           : "profile.png"
-  bio              : "Color, Computer Vision and Machine Learning scientist. Researcher at Tecnalia. PhD candidate in deep learning at Computer Vision Center/Universitat Autònoma de Barcelona. Photographer (nah, not really)"
+  bio              : "Color, Computer Vision and Machine Learning scientist.
+  Researcher at Tecnalia.
+  PhD candidate in deep learning at Computer Vision Center/Universitat Autònoma de Barcelona.
+  Photographer (nah, not really)"
   location         : "Bilbao/Barcelona, Spain"
-  employer         : "[Tecnalia](www.tecnalia.com) and [Computer Vision Center/Universitat Autònoma de Barcelona](www.cvc.uab.es/LAMP/)"
+  employer         : "Tecnalia and CVC/UAB
   googlescholar    : "https://scholar.google.com/citations?user=LZcrB3kAAAAJ&hl=en&oi=ao"
   email            : 
   uri              : 
