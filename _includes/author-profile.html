@@ -28,6 +28,12 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
+      {% if author.tecnalia %}
+        <li><a href="{{ author.tecnalia }}"><i class="fa fa-fw fa-briefcase" aria-hidden="true"></i> Computer Vision at Tecnalia</a></li>
+      {% endif %}
+      {% if author.lamp_cvc %}
+        <li><a href="{{ author.lamp_cvc }}"><i class="fa fa-fw fa-university" aria-hidden="true"></i> LAMP team at CVC/UAB</a></li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
@@ -101,7 +107,7 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fa fa-fw fa-google" aria-hidden="true"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> ORCID</a></li>
@@ -110,7 +116,7 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {% if author.portfolio %}
-        <li><a href="{{ author.portfolio }}"><i class="fa fa-fw fa-camera-retro" aria-hidden="true"></i> Personal portfolio</a></li>
+        <li><a href="{{ author.portfolio }}"><i class="fa fa-fw fa-camera" aria-hidden="true"></i> Personal portfolio</a></li>
       {% endif %}
 
     </ul>
