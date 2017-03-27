@@ -1,5 +1,5 @@
 ---
-title: 'Joining Learning And Machine Perception team at Computer Vision Center-Barcelona as PhD candidate'
+title: 'Joining LAMP team at Computer Vision Center-Barcelona as PhD candidate'
 date: 2016-10-27
 permalink: /posts/2016/10/news1/
 tags:
