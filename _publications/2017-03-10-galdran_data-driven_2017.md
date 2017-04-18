@@ -13,4 +13,6 @@ citation: ' A. Galdran et al., “Data-Driven Color Augmentation Techniques for 
 
 This paper is was submitted as part of our participation in the ISBI 2017 challenge on melanoma detection.
 
-Recommended citation: ``` A. Galdran et al., “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.```
+Recommended citation: 
+
+``` A. Galdran et al., “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.```
