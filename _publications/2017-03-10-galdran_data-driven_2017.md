@@ -15,4 +15,4 @@ This paper is was submitted as part of our participation in the ISBI 2017 challe
 
 Recommended citation: 
 
-``` A. Galdran et al., “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.```
+>A. Galdran et al., “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.
