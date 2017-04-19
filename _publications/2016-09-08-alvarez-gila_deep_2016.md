@@ -2,15 +2,12 @@
 title: "Deep Convolutional Neural Networks for surface quality inspection of hot long metal products"
 collection: publications
 permalink: /publication/2016-09-08-alvarez-gila_deep_2016
-excerpt: 'Notes.'
 date: 2016-09-08
 venue: 'First European Machine Vision Forum'
 paperurl: 'http://www.computervisionbytecnalia.com/wp-content/uploads/2016/09/EMVA-Deep-Convolutional-Neuronal-Networks-for-surface-quality-inspection-of-hot-long-metal-products.pdf'
 ---
 
 <a href='http://www.computervisionbytecnalia.com/wp-content/uploads/2016/09/EMVA-Deep-Convolutional-Neuronal-Networks-for-surface-quality-inspection-of-hot-long-metal-products.pdf'>Pdf</a>
-
-Notes.
 
 Citation: 
 

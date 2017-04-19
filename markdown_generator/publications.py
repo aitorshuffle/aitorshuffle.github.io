@@ -77,8 +77,8 @@ for row, item in publications.iterrows():
     
     md += """\npermalink: /publication/""" + html_filename
     
-    if len(str(item.excerpt)) > 5:
-        md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
+    # if len(str(item.excerpt)) > 5:
+    #     md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
     md += "\ndate: " + str(item.pub_date) 
     
@@ -96,8 +96,8 @@ for row, item in publications.iterrows():
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Pdf</a>\n"
         
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+    # if len(str(item.excerpt)) > 5:
+    #     md += "\n" + html_escape(item.excerpt) + "\n"
         
     md += "\nCitation: \n\n>" + item.citation
 
