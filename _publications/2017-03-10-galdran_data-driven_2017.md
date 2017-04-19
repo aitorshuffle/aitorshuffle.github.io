@@ -17,4 +17,4 @@ Recommended citation:
 
 > A. Galdran et al., “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.
 
-<a href='galdran_data-driven_2017.bib'>Bibtex</a>
+<a href='https://aitorshuffle.github.io/publications/galdran_data-driven_2017.bib'>Bibtex</a>

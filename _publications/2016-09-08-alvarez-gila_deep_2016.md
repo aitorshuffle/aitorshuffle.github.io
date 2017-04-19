@@ -17,4 +17,4 @@ Recommended citation:
 
 >A. Alvarez-Gila, A. Lopez-Cruz, S. Rodriguez-Vaamonde, M. Linares, J. A. Gutierrez-Olabarria, and E. Garrote, “Deep Convolutional Neural Networks for surface quality inspection of hot long metal products,” presented at the First European Machine Vision Forum, Heidelberg, Germany, 2016.
 
-<a href='alvarez-gila_deep_2016.bib'>Bibtex</a>
+<a href='https://aitorshuffle.github.io/publications/alvarez-gila_deep_2016.bib'>Bibtex</a>
