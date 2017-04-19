@@ -87,22 +87,28 @@ for row, item in publications.iterrows():
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
     
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
+    #md += "\ncitation: '" + html_escape(item.citation) + "'"
     
     md += "\n---"
     
     ## Markdown description for individual page
     
     if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+        md += "\n\n<a href='" + item.paper_url + "'>Pdf</a>\n"
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
         
-    md += "\nRecommended citation: \n\n>" + item.citation
+    md += "\nCitation: \n\n>" + item.citation
 
     if len(str(item.bibtex)) > 5:
-        md += "\n\n<a href='https://aitorshuffle.github.io/publications/" + bib_filename + "'>Bibtex</a>\n"
+        md_bibtex = []
+        with open('../_publications/' + bib_filename, 'r') as f:
+            md_bibtex = f.read()
+            md += "\n\nBibtex: \n\n"
+            md += '```\n' + md_bibtex + '\n```'
+
+        # md += "\n\n<a href='https://aitorshuffle.github.io/publications/" + bib_filename + "'>Bibtex</a>\n"
 
 
     md_filename = os.path.basename(md_filename)

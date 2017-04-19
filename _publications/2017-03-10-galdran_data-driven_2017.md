@@ -6,15 +6,26 @@ excerpt: 'Notes.'
 date: 2017-03-10
 venue: 'arXiv preprint arXiv:1703.03702'
 paperurl: 'https://arxiv.org/abs/1703.03702'
-citation: 'A. Galdran et al., “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.'
 ---
 
-<a href='https://arxiv.org/abs/1703.03702'>Download paper here</a>
+<a href='https://arxiv.org/abs/1703.03702'>Pdf</a>
 
 Notes.
 
-Recommended citation: 
+Citation: 
 
 >A. Galdran et al., “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.
 
-<a href='https://aitorshuffle.github.io/publications/2017-03-10-galdran_data-driven_2017.bib'>Bibtex</a>
+Bibtex: 
+
+```
+@article{galdran_data-driven_2017,
+	title = {Data-{Driven} {Color} {Augmentation} {Techniques} for {Deep} {Skin} {Image} {Analysis}},
+	url = {https://128.84.21.199/abs/1703.03702},
+	urldate = {2017-03-13},
+	author = {Galdran, Adrian and Alvarez-Gila, Aitor and Meyer, Maria Ines and Saratxaga, Cristina L. and Araújo, Teresa and Garrote, Estibaliz and Aresta, Guilherme and Costa, Pedro and Mendonça, A. M. and Campilho, Aurélio},
+	month = mar,
+	year = {2017}
+}
+
+```
