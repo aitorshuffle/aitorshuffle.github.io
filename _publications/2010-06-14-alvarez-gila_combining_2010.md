@@ -17,7 +17,6 @@ Citation:
 Bibtex: 
 
 ```
-
 @article{alvarez-gila_combining_2010,
 	title = {Combining color descriptors for improved codebook model-based image retrieval},
 	volume = {2010},
