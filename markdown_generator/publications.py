@@ -65,6 +65,7 @@ import os
 for row, item in publications.iterrows():
     
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
+    bib_filename = str(item.pub_date) + "-" + item.url_slug + ".bib"
     html_filename = str(item.pub_date) + "-" + item.url_slug
     year = item.pub_date[:4]
     
@@ -101,7 +102,7 @@ for row, item in publications.iterrows():
     md += "\nRecommended citation: \n\n>" + item.citation
 
     if len(str(item.bibtex)) > 5:
-        md += "\n\n<a href='https://aitorshuffle.github.io/publications/" + item.bibtex + "'>Bibtex</a>\n"
+        md += "\n\n<a href='https://aitorshuffle.github.io/publications/" + bib_filename  + "'>Bibtex</a>\n"
 
 
     md_filename = os.path.basename(md_filename)
