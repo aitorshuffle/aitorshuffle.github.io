@@ -12,7 +12,7 @@ citation: 'A. Alvarez-Gila, G. Cao, S. F. Hasan, and Y. Hu, “Combining color d
 
 Abstract: 
 
->Dermoscopic4
+>In this paper we present the design of an image Content-Based Indexing and Retrieval (CBIR) system which, based upon existing implementations of a number of well-known color descriptors, makes use of the bag-of-words or codebook model in order to construct a robust approach to the retrieval of images from a database in a query-by-example context. A new object image database was constructed specifically for this task, in an attempt to challenge the invariance properties of the system under controlled conditions of illumination, point of view and scale. The system permits the combined use of up to two of the different color descriptors considered. The experiments run over a subset of the image database show an improvement of the obtained results under some of the tested combinations, as well as the effect of the variation of the employed codebook size.
 
 Bibtex: 
 

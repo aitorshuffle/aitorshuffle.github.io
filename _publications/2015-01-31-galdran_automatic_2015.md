@@ -12,7 +12,7 @@ citation: 'A. Galdran, D. Pardo, A. Picón, and A. Alvarez-Gila, “Automatic Re
 
 Abstract: 
 
->Dermoscopic3
+>Underwater images typically exhibit color distortion and low contrast as a result of the exponential decay that light suffers as it travels. Moreover, colors associated to different wavelengths have different attenuation rates, being the red wavelength the one that attenuates the fastest. To restore underwater images, we propose a Red Channel method, where colors associated to short wavelengths are recovered, as expected for underwater images, leading to a recovery of the lost contrast. The Red Channel method can be interpreted as a variant of the Dark Channel method used for images degraded by the atmosphere when exposed to haze. Experimental results show that our technique handles gracefully artificially illuminated areas, and achieves a natural color correction and superior or equivalent visibility improvement when compared to other state-of-the-art methods.
 
 Bibtex: 
 
