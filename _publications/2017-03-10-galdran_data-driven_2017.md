@@ -8,7 +8,7 @@ paperurl: 'https://arxiv.org/abs/1703.03702'
 citation: 'A. Galdran, A. Alvarez-Gila, M.I. Meyer, C. L. Saratxaga, T. Araújo, E. Garrote, G. Aresta, P. Costa, A.M. Mendonça, A. Campilho, “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.'
 ---
 
-<a href='https://arxiv.org/abs/1703.03702'>Pdf</a>
+<a href='https://arxiv.org/abs/1703.03702'>Full text</a>
 
 Abstract: 
 
