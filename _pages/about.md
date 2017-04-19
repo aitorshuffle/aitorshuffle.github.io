@@ -9,12 +9,16 @@ redirect_from:
 ---
 This is Aitor Alvarez-Gila's personal webpage.
 
+My main research interests are deep learning and other machine learning models for image understanding, color and spectral imaging.
 
-Getting started
-======
+I am a senior researcher at Tecnalia's Computer Vision Group (2010-), where I have made stuff that work on these and other topics (3D reconstruction, image enhancement for adverse weather, radiometry, etc.) for biomedical, steelmaking, agro and packaging industries, among others.
 
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+Since 2016, I am also a PhD candidate in deep learning at [Computer Vision Center](http://www.cvc.uab.es/)-[Universitat Autònoma de Barcelona](http://www.uab.cat/)'s [LAMP (Learning And Machine Perception)](http://www.cvc.uab.es/LAMP/) team 
+ 
+Prior to that, I completed the Erasmus Mundus Master CIMET (Color in Informatics and Media Technology)in machine vision and colour science and made research stays in the Universities of Granada, Saint-Etienne, Gjøvik and Amsterdam from 2008 until 2010.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+In past lifes, I've also been a consultant in a dark suit working for multinational financial companies and public administration.
+
+I even have a darker past life doing research on network security at the University of the Basque Country, where I first graduated as 
+Telecommunications Engineer (2005). 
+ 
