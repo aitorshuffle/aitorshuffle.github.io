@@ -9,7 +9,7 @@ redirect_from:
 ---
 This is Aitor Alvarez-Gila's personal webpage.
 
-My main research interests are deep learning and other machine learning models for image understanding, color and spectral imaging.
+My main research interests are deep learning and other machine learning and computer vision models for image understanding, color and spectral imaging.
 
 I am a senior researcher at [Tecnalia's Computer Vision Group](http://www.computervisionbytecnalia.com/en/) (2010-), where I have made stuff that work on these and other topics (3D reconstruction, image enhancement for adverse weather, radiometry, etc.) for biomedical, steelmaking, agro and packaging industries, among others.
 
