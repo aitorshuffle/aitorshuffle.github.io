@@ -13,7 +13,7 @@ My main research interests are deep learning and other machine learning models f
 
 I am a senior researcher at Tecnalia's Computer Vision Group (2010-), where I have made stuff that work on these and other topics (3D reconstruction, image enhancement for adverse weather, radiometry, etc.) for biomedical, steelmaking, agro and packaging industries, among others.
 
-Since 2016, I am also a PhD candidate in deep learning at [Computer Vision Center](http://www.cvc.uab.es/)-[Universitat Autònoma de Barcelona](http://www.uab.cat/)'s [LAMP (Learning And Machine Perception)](http://www.cvc.uab.es/LAMP/) team 
+Since 2016, I am also a PhD candidate in deep learning at [Computer Vision Center](http://www.cvc.uab.es/)'s [LAMP (Learning And Machine Perception)](http://www.cvc.uab.es/LAMP/) team, in Barcelona. 
  
 Prior to that, I completed the Erasmus Mundus Master CIMET (Color in Informatics and Media Technology)in machine vision and colour science and made research stays in the Universities of Granada, Saint-Etienne, Gjøvik and Amsterdam from 2008 until 2010.
 
