@@ -102,7 +102,7 @@ for row, item in publications.iterrows():
     md += "\nRecommended citation: \n\n>" + item.citation
 
     if len(str(item.bibtex)) > 5:
-        md += "\n\n<a href='https://aitorshuffle.github.io/publications/" + bib_filename  + "'>Bibtex</a>\n"
+        md += "\n\n<a href='https://aitorshuffle.github.io/publications/" + bib_filename + "'>Bibtex</a>\n"
 
 
     md_filename = os.path.basename(md_filename)
