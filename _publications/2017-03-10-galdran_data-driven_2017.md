@@ -5,14 +5,14 @@ permalink: /publication/2017-03-10-galdran_data-driven_2017
 date: 2017-03-10
 venue: 'arXiv preprint arXiv:1703.03702'
 paperurl: 'https://arxiv.org/abs/1703.03702'
-citation: 'A. Galdran et al., “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.'
+citation: 'A. Galdran, A. Alvarez-Gila, M.I. Meyer, C. L. Saratxaga, T. Araújo, E. Garrote, G. Aresta, P. Costa, A.M. Mendonça, A. Campilho, “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.'
 ---
 
 <a href='https://arxiv.org/abs/1703.03702'>Pdf</a>
 
 Citation: 
 
->A. Galdran et al., “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.
+>A. Galdran, A. Alvarez-Gila, M.I. Meyer, C. L. Saratxaga, T. Araújo, E. Garrote, G. Aresta, P. Costa, A.M. Mendonça, A. Campilho, “Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis,” Mar. 2017.
 
 Bibtex: 
 
