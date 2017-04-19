@@ -98,8 +98,8 @@ for row, item in publications.iterrows():
         
     # if len(str(item.excerpt)) > 5:
     #     md += "\n" + html_escape(item.excerpt) + "\n"
-        
-    md += "\nCitation: \n\n>" + item.citation
+    print item.abstract
+    md += "\nAbstract: \n\n>" + item.abstract
 
     if len(str(item.bibtex)) > 5:
         md_bibtex = []
