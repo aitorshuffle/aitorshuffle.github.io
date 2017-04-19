@@ -99,7 +99,11 @@ for row, item in publications.iterrows():
         md += "\n" + html_escape(item.excerpt) + "\n"
         
     md += "\nRecommended citation: \n\n>" + item.citation
-    
+
+    if len(str(item.bibtex)) > 5:
+        md += "\n\n<a href='" + item.bibtex + "'>Bibtex</a>\n"
+
+
     md_filename = os.path.basename(md_filename)
        
     with open("../_publications/" + md_filename, 'w') as f:
