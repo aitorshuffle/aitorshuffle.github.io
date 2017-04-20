@@ -7,7 +7,6 @@ tags:
   - surfin
   - deep learning
   - cnn
-excerpt_separator: and
 ---
 
 ![surfin]({{ site.url }}/images/CNN_Surfin_EMVA_2016.png)
