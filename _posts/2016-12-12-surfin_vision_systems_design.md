@@ -15,5 +15,6 @@ Tecnalia's surface inspection system for hot long metal products [SURFIN](https:
 
 References:
 >[A. Cruz-Lopez, A. Lago, R. Gonzalez, A. Alvarez-Gila, and J. A. Gutiérrez Olabarria, “High-speed inspection system finds defects in steel,” Vision Systems Design, no. December 2016-1, pp. 24–27, Dec-2016.](http://digital.vision-systems.com/visionsystems/201612?pg=26)
+
 >[A. Alvarez-Gila, A. Lopez-Cruz, S. Rodriguez-Vaamonde, M. Linares, J. A. Gutierrez-Olabarria, and E. Garrote, “Deep Convolutional Neural Networks for surface quality inspection of hot long metal products,” presented at the First European Machine Vision Forum, Heidelberg, Germany, 2016.](https://aitorshuffle.github.io/publication/2016-09-08-alvarez-gila_deep_2016)
  
