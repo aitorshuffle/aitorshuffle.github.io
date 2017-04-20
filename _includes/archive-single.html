@@ -50,7 +50,7 @@
 
     <!-- seen here: https://stanko.github.io/jekyll-read-more-link/ -->
     {% if post.excerpt != post.content %}
-      <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" style="font-size: 100px; text-decoration: none">(Read more)</a>
     {% endif %}
 
     {% if post.citation and post.paperurl %}
