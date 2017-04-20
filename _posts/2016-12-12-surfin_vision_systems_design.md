@@ -8,6 +8,8 @@ tags:
   - deep learning
   - cnn
 ---
+
+
 ![surfin]({{ site.url }}/images/CNN_Surfin_EMVA_2016.png)
 
 Our surface inspection system for hot long metal products [SURFIN](https://www.youtube.com/watch?v=tNCEqj-tYcs) is migrating to a [deep learning-based solution using Convolutional Neural Networks](http://www.computervisionbytecnalia.com/en/2016/10/las-redes-neuronales-convolucionales-cnns-hacen-evolucionar-surfin-hot-inspection-de-tecnalia-para-asegurar-el-control-de-calidad-automatico/), and the December 2016 issue of [Vision Systems Design](http://www.vision-systems.com/index.html) includes [an article](http://digital.vision-systems.com/visionsystems/201612?pg=26) on it with some design and performance details.  
