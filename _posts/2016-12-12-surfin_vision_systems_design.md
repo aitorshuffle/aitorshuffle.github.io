@@ -7,7 +7,6 @@ tags:
   - surfin
   - deep learning
   - cnn
-teaser: {{ site.url }}/images/CNN_Surfin_EMVA_2016.png
 ---
 ![surfin]({{ site.url }}/images/CNN_Surfin_EMVA_2016.png)
 
