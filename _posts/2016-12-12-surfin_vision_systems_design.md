@@ -1,5 +1,5 @@
 ---
-title: 'Tecnalia\'s deep learning-based Surface Inspection system SURFIN featured in Vision Systems Design'
+title: 'Tecnalia"'"s deep learning-based Surface Inspection system SURFIN featured in Vision Systems Design'
 date: 2016-12-12
 permalink: /posts/2016/12/news1/
 tags:
