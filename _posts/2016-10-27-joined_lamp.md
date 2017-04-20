@@ -7,9 +7,11 @@ tags:
   - cvc
   - uab
   - lamp
+excerpt-separator: learning.
 ---
 
 ![cvc_building]({{ site.url }}/images/cvc_building.jpg)
+
 I have been officially admitted as PhD student at the [Universitat Autònoma de Barcelona](http://www.uab.cat/).
 I will be joining [Computer Vision Center](http://www.cvc.uab.es/)'s [LAMP (Learning And Machine Perception)](http://www.cvc.uab.es/LAMP/) team under the supervision of [Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/) to work on deep learning. 
 
