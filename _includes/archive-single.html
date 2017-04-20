@@ -48,6 +48,7 @@
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
 
+    <!-- seen here: https://stanko.github.io/jekyll-read-more-link/ -->
     {% if post.excerpt != post.content %}
       <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
     {% endif %}
