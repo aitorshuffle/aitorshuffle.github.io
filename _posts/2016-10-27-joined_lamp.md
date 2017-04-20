@@ -7,6 +7,8 @@ tags:
   - cvc
   - uab
   - lamp
+excerpt_separator: under
+
 ---
 
 I have been officially admitted as PhD student at the [Universitat Autònoma de Barcelona](http://www.uab.cat/).
