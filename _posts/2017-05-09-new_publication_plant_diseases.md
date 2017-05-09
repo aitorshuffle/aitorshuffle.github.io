@@ -14,4 +14,6 @@ tags:
 We just got a [new paper](![basf_paper]({{ site.url }}/publication/2017-05-09-johannes_automatic_2017)) accepted in [June's issue of the [_Computers and Electronics in Agriculture_ journal](http://www.sciencedirect.com/science/journal/01681699/138)! 
 This paper is the first result of our collaboration with [BASF](https://www.basf.com) on the detection of diseases in crops by means of mobile imaging devices.
 
+![johannes_automatic_2017_header_img]({{ site.url }}/images/johannes_automatic_2017_header_img.png)
+
 You can find the full text [here](http://www.sciencedirect.com/science/article/pii/S016816991631050X).
