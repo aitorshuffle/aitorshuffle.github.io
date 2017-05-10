@@ -5,8 +5,9 @@ permalink: /publication/2017-05-09-johannes_automatic_2017
 date: 2017-05-09
 venue: 'Computers and Electronics in Agriculture'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S016816991631050X'
-citation: 'Johannes, A., Picon, A., Alvarez-Gila, A., Echazarra, J., Rodriguez-Vaamonde, S., Navajas, A. D., & Ortiz-Barredo, A. (2017). Automatic plant disease diagnosis using mobile capture devices, applied on a wheat use case. Computers and Electronics in Agriculture, 138, 200–209. doi:10.1016/j.compag.2017.04.013'
+citation: 'A. Johannes, A. Picon, A. Alvarez-Gila, J. Echazarra, S. Rodriguez-Vaamonde, A. D. Navajas, and A. Ortiz-Barredo, “Automatic plant disease diagnosis using mobile capture devices, applied on a wheat use case,” Computers and Electronics in Agriculture, vol. 138, pp. 200–209, Jun. 2017.'
 ---
+
 
 <a href='http://www.sciencedirect.com/science/article/pii/S016816991631050X'>Full text</a>
 
