@@ -4,12 +4,8 @@ collection: publications
 permalink: /publication/2016-01-07-galdran_visibility_2016
 date: 2016-01-07
 venue: 'V-MAD 6 Sexto Encuentro en Aplicaciones de la Matemática'
-paperurl: ''
 citation: 'Adrián Galdran, Artzai Picón, Aitor Alvarez-Gila, Javier Vazquez-Corral, Marcelo Bertalmío, and David Pardo, “Visibility Recovery on Images Acquired in Attenuating Media. Application to Underwater and Fog Image Restoration,” presented at the V-MAD 6 Sexto Encuentro en Aplicaciones de la Matemática, Instituto de Matemáticas, Pontificia Universidad Católica de Valparaíso, Chile, 2016.'
 ---
-
-
-<!--<a href='http://www.sciencedirect.com/science/article/pii/S016816991631050X'>Full text</a>-->
 
 Abstract: 
 
@@ -22,8 +18,8 @@ Bibtex:
 	address = {Instituto de Matemáticas, Pontificia Universidad Católica de Valparaíso, Chile},
 	title = {Visibility {Recovery} on {Images} {Acquired} in {Attenuating} {Media}. {Application} to {Underwater} and {Fog} {Image} {Restoration}},
 	language = {en},
-	author = {{Adrián Galdran} and {Artzai Picón} and {Aitor Alvarez-Gila} and {Javier Vazquez-Corral} and {Marcelo Bertalmío} and {David Pardo}},
+	author = { {Adrián Galdran} and {Artzai Picón} and {Aitor Alvarez-Gila} and {Javier Vazquez-Corral} and {Marcelo Bertalmío} and {David Pardo} },
 	month = jan,
 	year = {2016}
-}
+	}
 ```
