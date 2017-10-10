@@ -1,5 +1,5 @@
 ---
-title: "Our paper Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB, accepted at ICCV 2017 Workshop on Physics-based vision"
+title: "Our paper Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB, accepted at ICCV 2017 Workshop on Physics-Based Vision meets Deep Learning"
 date: 2017-10-10
 permalink: /posts/2017/10/news1/
 tags:
