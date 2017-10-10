@@ -21,8 +21,8 @@ Bibtex:
 ```
 @inproceedings{alvarez-gila_adversarial_2017,
   address = {Venice, Italy},
-  title = {Adversarial {{Networks}} for {{Spatial Context}}-{{Aware Spectral Image Reconstruction}} from {{RGB}}},
-  booktitle = {1st {{International Workshop}} on  {{Physics Based Vision}} Meets {{Deep Learning}} at {{ICCV2017}}},
+  title = {Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB},
+  booktitle = {1st International Workshop on Physics Based Vision Meets Deep Learning at ICCV2017},
   author = {Alvarez-Gila, Aitor and van de Weijer, Joost and Garrote, Estibaliz},
   year = {2017}
 }
