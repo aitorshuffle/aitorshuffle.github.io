@@ -8,8 +8,6 @@ paperurl: 'https://arxiv.org/abs/1709.00265'
 citation: 'A. Alvarez-Gila, J. van de Weijer, and E. Garrote, “Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB,” presented at the 1st International Workshop on  Physics Based Vision meets Deep Learning at ICCV2017, Venice, Italy, 2017.'
 ---
 
-Available: https://arxiv.org/abs/1709.00265
-
 <a href='https://arxiv.org/abs/1709.00265'>Full text preprint</a>
 
 Abstract: 
