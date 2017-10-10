@@ -11,6 +11,7 @@ tags:
 ![Adversarial RGB to hyperspectral image reconstruction]({{ site.url }}/images/advrgb2hs_sample.png)
 
 Our paper [Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB]({{ site.url }}/publication/2017-10-10-alvarez-gila_adversarial_2017), has been accepted for oral presentation at the ICCV 2017 Workshop on [Physics-Based Vision meets Deep Learning](https://pbdl2017.github.io/), to be held next October 23rd in Venice, Italy.
+[new paper]({{ site.url }}/publication/2017-05-09-johannes_automatic_2017)
 
 The paper shows how we can use the framework provided by the Generative Adversarial Networks (GANs) in a conditional setting in order to accurately reconstruct a hyperspectral image composed by 31 channels, taking only an RGB image as input. 
 
