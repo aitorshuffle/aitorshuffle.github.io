@@ -2,7 +2,7 @@
 title: "Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB"
 collection: publications
 permalink: /publication/2017-07-21-alvarez-gila_adversarial_2017
-date: 2017-07-21
+date: 2017-10-10
 venue: 'ICCV 2017 Workshop Physics-Based Vision meets Deep Learning'
 paperurl: 'https://arxiv.org/abs/1709.00265'
 citation: A. Alvarez-Gila, J. van de Weijer, and E. Garrote, “Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB,” presented at the 1st International Workshop on  Physics Based Vision meets Deep Learning at ICCV2017, Venice, Italy, 2017. Available: https://arxiv.org/abs/1709.00265'
