@@ -24,9 +24,9 @@ Bibtex:
 
 ```
 @inproceedings{alvarez-gila_adversarial_2017,
-  title = {Adversarial {{Networks}} for {{Spatial Context}}-{{Aware Spectral Image Reconstruction}} from {{RGB}}},
+  title = {Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB},
   doi = {10.1109/ICCVW.2017.64},
-  booktitle = {2017 {{IEEE International Conference}} on {{Computer Vision Workshops}} ({{ICCVW}})},
+  booktitle = {2017 IEEE International Conference on Computer Vision Workshops (ICCVW)},
   author = {Alvarez-Gila, Aitor and van de Weijer, Joost and Garrote, Estibaliz},
   month = oct,
   year = {2017},
