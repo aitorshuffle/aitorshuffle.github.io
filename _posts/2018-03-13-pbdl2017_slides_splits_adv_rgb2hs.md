@@ -1,5 +1,5 @@
 ---
-title: "Slides and train-test splits available for our Adversarial RGB to Hyperspectral paper"
+title: "Slides, updated arxiv and train-test splits available for our Adversarial RGB to Hyperspectral paper"
 date: 2018-03-13
 permalink: /posts/2018/03/news1/
 tags:
