@@ -12,7 +12,7 @@ citation: 'A. Alvarez-Gila, J. van de Weijer, and E. Garrote, “Adversarial Net
 
 Definition of the train-test splits used in the experimental evaluation: [Train-test splits]({{ site.url }}/files/pbdl2017data/pbdl2017_icvl_splits.zip) 
 
-[Slides]({{ site.url }}/files/pbdl2017data/20171023_advrgb2hs_pbdl2017_v0.8_split.pdf) from our presentation at Physics-Based Vision meets Deep Learning (PBDL) Workshop at ICCV 2017
+[Slides]({{ site.url }}/files/pbdl2017data/20171023_advrgb2hs_pbdl2017_v0.8_split.pdf) from our presentation at the [PBDL Workshop](https://pbdl2017.github.io/) at ICCV 2017
 
 Abstract: 
 
