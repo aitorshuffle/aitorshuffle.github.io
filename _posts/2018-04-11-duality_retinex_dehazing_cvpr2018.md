@@ -1,6 +1,6 @@
 ---
 title: "Our paper _On the Duality Between Retinex and Image Dehazing_, accepted to CVPR 2018"
-date: 2018-04-12
+date: 2018-04-11
 permalink: /posts/2018/04/news2/
 tags:
   - publications

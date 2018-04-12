@@ -1,11 +1,11 @@
 ---
 title: "On the Duality Between Retinex and Image Dehazing"
 collection: publications
-permalink: /publication/2017-12-07-galdran_duality_2017
-date: 2017-12-07
+permalink: /publication/2018-06-18-galdran_duality_2018
+date: 2018-06-18
 venue: 'arxiv.org'
 paperurl: 'https://arxiv.org/abs/1712.02754'
-citation: 'A. Galdran, A. Alvarez-Gila, A. Bria, J. Vazquez-Corral, and M. Bertalmio, “On the Duality Between Retinex and Image Dehazing,” arXiv:1712.02754, Dec. 2017.' 
+citation: 'A. Galdran, A. Alvarez-Gila, A. Bria, J. Vazquez-Corral, and M. Bertalmio, “On the Duality Between Retinex and Image Dehazing,”in CVPR 2018, Salt Lake City, USA, 2018. 
 
 ---
 
@@ -20,10 +20,12 @@ Abstract:
 Bibtex:
 
 ```
-@article{galdran_duality_2017a,
-  title = {On the {{Duality Between Retinex}} and {{Image Dehazing}}},
+@inproceedings{galdran_duality_2018,
+  title = {On the Duality Between Retinex and Image Dehazing},
+  address = {Salt Lake City, USA},
+  booktitle = {CVPR 2018},
   url = {http://arxiv.org/abs/1712.02754},
   author = {Galdran, Adrian and Alvarez-Gila, Aitor and Bria, Alessandro and Vazquez-Corral, Javier and Bertalmio, Marcelo},
-  date = {2017-12-07},
+  year = {2018},
 }
 ```
