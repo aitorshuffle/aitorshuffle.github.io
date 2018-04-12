@@ -2,7 +2,7 @@
 title: "On the Duality Between Retinex and Image Dehazing"
 collection: publications
 permalink: /publication/2018-04-11-galdran_duality_2018
-date: 2018-06-18
+date: 2018-04-11
 venue: 'Computer Vision and Pattern Recognition (CVPR) 2018'
 paperurl: 'https://arxiv.org/abs/1712.02754'
 citation: 'A. Galdran, A. Alvarez-Gila, A. Bria, J. Vazquez-Corral, and M. Bertalmio, “On the Duality Between Retinex and Image Dehazing,”in CVPR 2018, Salt Lake City, USA, 2018. 
