@@ -1,5 +1,5 @@
 ---
-title: "_Introduction to deep learning_ invited lecture at ESI Bilbao (UPV/EHU)"
+title: "_Introduction to deep learning_, invited lecture at ESI Bilbao (UPV/EHU)"
 date: 2018-04-10
 permalink: /posts/2018/04/news1/
 tags:
