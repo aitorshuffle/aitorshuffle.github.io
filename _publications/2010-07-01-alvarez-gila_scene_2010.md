@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-07-01-alvarez-gila_scene_2010
 date: 2010-07-01
 venue: 'Master’s thesis, Gøvik University College, Gøvik, Norway'
-citation: 'A. Alvarez-Gila, “Scene Recognition for Improved Aesthetic Quality Inference of Photographic Images,” 2010, no. 1, pp. 306–313, Jun. 2010.'
+citation: 'A. Alvarez-Gila, “Scene Recognition for Improved Aesthetic Quality Inference of Photographic Images,” Master’s thesis, Gøvik University College, Gøvik, Norway, Jun. 2010.'
 ---
 
 <a>Full text available soon</a>
