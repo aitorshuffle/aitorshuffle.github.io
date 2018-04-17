@@ -7,7 +7,6 @@ venue: 'Master’s thesis, Gøvik University College, Gøvik, Norway'
 citation: 'Alvarez-Gila, Aitor, “Scene Recognition for Improved Aesthetic Quality Inference of Photographic Images,” 2010, no. 1, pp. 306–313, Jun. 2010.'
 ---
 
-[1]Aitor Alvarez-Gila, “Scene Recognition for Improved Aesthetic Quality Inference of Photographic Images,” Master’s thesis, Gøvik University College, Gøvik, Norway, 2010.
 <a>Full text available soon</a>
 
 Abstract: 
