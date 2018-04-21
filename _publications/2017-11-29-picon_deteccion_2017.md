@@ -5,7 +5,7 @@ permalink: /publication/2017-11-29-picon_deteccion_2017
 date: 2017-11-29
 venue: 'XXXV Congreso Anual de la Sociedad Espanola de Ingeniería Biomedica. Bilbao, 29 Nov – 1 Dic, 2017'
 paperurl: 'http://www.computervisionbytecnalia.com/wp-content/uploads/2018/01/caseib_2017_picon.pdf'
-citation: 'A. Picon et al., “Detección de fibrilación ventricular mediante técnicas de aprendizaje profundo,” in CASEIB 2017 - XXXV Congreso Anual de la Sociedad Espanola de Ingeniería Biomedica, Bilbao, Spain, 2017.' 
+citation: 'A. Picon, U. Irusta, A. Alvarez-Gila, E. Aramendi, E. Garrote, U. Ayala, F. Alonso, and C. Figuera, “Detección de fibrilación ventricular mediante técnicas de aprendizaje profundo,” in CASEIB 2017 - XXXV Congreso Anual de la Sociedad Espanola de Ingeniería Biomedica, Bilbao, Spain, 2017.'
 
 ---
 
