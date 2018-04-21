@@ -15,9 +15,9 @@ Bibtex:
 	address = {Madrid, Spain},
 	title = {Problemática de seguridad en redes {Ethernet} extremo a extremo},
 	language = {es},
-	booktitle = {{XV} {Jornadas} {Telecom} {I}+{D} 2005},
+	booktitle = {XV {Jornadas} {Telecom} {I}+{D} 2005},
 	author = {Sáiz, Purificación and Matias, Jon and Jacob, Eduardo and Alvarez-Gila, Aitor and Areizaga, Enrique},
 	month = nov,
 	year = {2005}
-}
+	}
 ```
