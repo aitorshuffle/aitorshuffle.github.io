@@ -1,4 +1,3 @@
-
 ---
 title: "Self-Supervised Blur Detection from Synthetically Blurred Scenes"
 collection: publications
