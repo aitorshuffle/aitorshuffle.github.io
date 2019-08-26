@@ -6,12 +6,13 @@ permalink: /publication/2019-08-25-alvarez-gila_self-supervised_2019
 date: 2019-08-25
 venue: 'Image and Vision Computing'
 paperurl: 'https://doi.org/10.1016/j.imavis.2019.08.008'
-citation: 'A. Alvarez-Gila, A. Galdran, E. Garrote, and J. van de Weijer, “Self-supervised blur detection from synthetically blurred scenes (IN PRESS),” Image and Vision Computing, Aug. 2019.'
-           
+citation: 'A. Alvarez-Gila, A. Galdran, E. Garrote, and J. van de Weijer, “Self-supervised blur detection from synthetically blurred scenes (IN PRESS),” Image and Vision Computing, Aug. 2019.'     
 ---
 
 <a href='https://doi.org/10.1016/j.imavis.2019.08.008'>Full text (official)</a>
+
 <a href='https://github.com/aitorshuffle/synthblur'>Full text (preprint)-AVAILABLE SOON</a>
+
 <a href='https://github.com/aitorshuffle/synthblur'>Code, models and data </a>
 
 Abstract: 
