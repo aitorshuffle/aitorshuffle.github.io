@@ -10,7 +10,7 @@ citation: 'A. Alvarez-Gila, A. Galdran, E. Garrote, and J. van de Weijer, “Sel
 
 <a href='https://doi.org/10.1016/j.imavis.2019.08.008'>Full text (official)</a>
 
-<a href='https://github.com/aitorshuffle/synthblur'>Full text (preprint)-AVAILABLE SOON</a>
+<a href='https://arxiv.org/abs/1908.10638'>Full text (preprint)</a>
 
 <a href='https://github.com/aitorshuffle/synthblur'>Code, models and data </a>
 
@@ -32,6 +32,6 @@ Bibtex:
   author = {Alvarez-Gila, Aitor and Galdran, Adrian and Garrote, Estibaliz and van de Weijer, Joost},
   month = aug,
   year = {2019},
-  keywords = {_deep_learning_based,_read,Blur,Deep learning,Defocus,Motion,Self-supervised learning,Synthetic}
+  keywords = {Blur detection,Defocus blur,Motion blur,Deep learning,Self-supervised learning,Synthetic}
 }
 ```
