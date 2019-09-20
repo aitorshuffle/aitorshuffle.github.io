@@ -1,5 +1,5 @@
 ---
-title: "New journal paper on deep learning-based plant disease detection in the wild"
+title: "PLOS ONE paper on deep learning techniques for the detection of lethal ventricular arrhythmia on out-of-hospital cardiac arrest patients"
 date: 2019-05-20
 permalink: /posts/2019/05/news1/
 tags:
