@@ -17,7 +17,7 @@ tags:
 ---
 
 
-Our paper ["Self-Supervised Blur Detection from Synthetically Blurred Scenes"]({{ site.url }}/publication/2019-08-25-alvarez-gila_self-supervised_2019) just got accepted for publication at the [_Image and Vision Computing_ journal](https://www.journals.elsevier.com/image-and-vision-computing) (Q1).
+Our paper ["Self-Supervised Blur Detection from Synthetically Blurred Scenes"]({{ site.url }}/publication/2019-08-25-alvarez-gila_self-supervised_2019) just got accepted for publication at the [_Image and Vision Computing_](https://www.journals.elsevier.com/image-and-vision-computing) journal (Q1).
 
 ![fig1]({{ site.url }}/images/alvarez-gila_self-supervised_2019_fig1_abstract.png)
 
