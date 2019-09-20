@@ -1,6 +1,6 @@
 ---
-title: "New journal paper on deep learning-based plant disease detection in the wild"
-date: 2018-04-16
+title: "New journal paper on synthetic image blurring for self-supervised deep blur detection"
+date: 2019-08-25
 permalink: /posts/2019/08/news1/
 tags:
   - self-supervised learning
