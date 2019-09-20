@@ -20,7 +20,7 @@ Our paper ["Mixed Convolutional and Long Short-Term Memory Network for the Detec
 ![fig1]({{ site.url }}/images/20190520_journal.pone.0216756.g001.PNG)
 
 
-This is shared work between Tecnalia's Computer Vision Group and the [Research group on Bioengineering and Resuscitation (Biores)](https://www.ehu.eus/en/web/biores/home) from the University of the Basque Country (UPV/EHU). The paper shows how, by applying a neural network comrising convolutional and LSTM modules, we can successfully detect lethal ventricular arrhythmia on Out-of-Hospital Cardiac Arrest (OHCA) patients.
+This is shared work between Tecnalia's Computer Vision Group and the [Research group on Bioengineering and Resuscitation (Biores)](https://www.ehu.eus/en/web/biores/home) from the University of the Basque Country (UPV/EHU). The paper shows how, by applying a neural network comprising convolutional and LSTM modules, we can successfully detect lethal ventricular arrhythmia on Out-of-Hospital Cardiac Arrest (OHCA) patients.
 
 More info and full text available [here]({{ site.url }}//publication/2019-05-20-picon_mixed_2019a).
 
