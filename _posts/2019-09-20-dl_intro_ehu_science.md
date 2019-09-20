@@ -1,7 +1,7 @@
 ---
 title: "Invited talk on deep learning at the Faculty of Science and Technology (UPV/EHU)"
 date: 2019-09-20
-permalink: /posts/2019/09/news2/
+permalink: /posts/2019/09/news1/
 tags:
   - scientific dissemination
   - deep learning
