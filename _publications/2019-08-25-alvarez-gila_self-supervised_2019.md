@@ -32,7 +32,7 @@ Bibtex:
   language = {en},
   journal = {Image and Vision Computing},
   doi = {10.1016/j.imavis.2019.08.008},
-  author = {{Alvarez-Gila}, Aitor and Galdran, Adrian and Garrote, Estibaliz and {van de Weijer}, Joost},
+  author = {Alvarez-Gila, Aitor and Galdran, Adrian and Garrote, Estibaliz and van de Weijer, Joost},
   month = dec,
   year = {2019},
   keywords = {Blur detection,Deep learning,Defocus blur,Motion blur,Self-supervised learning,Synthetic},
