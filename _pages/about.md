@@ -19,6 +19,5 @@ Prior to that, I completed the [Erasmus Mundus CIMET Master (Color in Informatic
 
 In past lives, I've also been a consultant in a dark suit working for multinational financial companies and public administration.
 
-Prior to that, I did some research on network security at the University of the Basque Country, where I first graduated as 
-Telecommunications Engineer (2005). 
+Even before that, I did some research on network security at the University of the Basque Country, where I first graduated as Telecommunications Engineer (2005). 
  
