@@ -1,0 +1,172 @@
+<!--COPIED FROM https://gkioxari.github.io/usl/index.html (Rendered) https://github.com/gkioxari/gkioxari.github.io/tree/master/usl (code)-->
+<html>
+<head>
+  <title>MVMO: A Multi-Object Dataset for Wide Baseline Multi-View Semantic Segmentation</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js" type="module"></script>
+</head>
+
+<body>
+
+<div class="container">
+  <h1><span style="font-size:42px">MVMO: A Multi-Object Dataset for Wide Baseline Multi-View Semantic Segmentation</span></h1>
+  <br>
+  <table width="600px" align="center">
+    <tr>
+      <td align=center width=100px>
+        <center>
+          <span style="font-size:24px"><a href="https://aitorshuffle.github.io/">Aitor Alvarez-Gila</a></span>
+        </center>
+      </td>
+      <td align=center width=100px>
+        <center>
+          <span style="font-size:24px"><a href="https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en">Joost van de Weijer</a></span>
+        </center>
+      </td>
+      <td align=center width=100px>
+        <center>
+        <span style="font-size:24px"><a href="https://scholar.google.com/citations?hl=en&user=6CsB8k0AAAAJ">Yaxing Wang</a></span>
+        </center>
+      </td>
+      <td align=center width=100px>
+        <center>
+        <span style="font-size:24px"><a href="https://scholar.google.com/citations?hl=en&user=QGM4I_kAAAAJ">Estibaliz Garrote</a></span>
+        </center>
+      </td>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <span style="font-size: 22px">Tecnalia</span>
+    </tr>
+      <tr>
+      <span style="font-size: 22px">Computer Vision Center / Universitat Autònoma de Barcelona</span>
+    </tr>
+    <br><br>
+    <tr>
+      <span style="font-size: 20px">ICIP 2022 (Under Review)</span>
+    </tr>
+  </table>
+  <br>
+  <table width="400px" align="center">
+    <tr>
+      <td align=center width=100px>
+        <center>
+          <span style="font-size:24px"><a href="">[Paper (coming soon!)]</a></span>
+        </center>
+      </td>
+      <td align=center width=200px>
+        <center>
+          <span style="font-size:24px"><a href="">[Code (coming soon!)]</a></span>
+        </center>
+      </td>
+  </table>
+
+  <p>
+    <div class="row">
+      <img src="resources/fig_samples_v0_8_12_13_22_w_domes_idx_0000047_0000061_icip2022.png" style="width:80%; padding-top:35px;">
+    </div>
+  </p>
+</div>
+
+</br>
+
+<div class="container">
+  <h1>Abstract</h1>
+    <p align="justify">
+      We present MVMO (Multi-View, Multi-Object dataset): a synthetic dataset of 116,000 scenes containing randomly placed objects of 10 distinct classes and captured from 25 camera locations in the upper hemisphere. MVMO comprises photorealistic, path-traced image renders, together with semantic segmentation ground truth for every view. Unlike existing multi-view datasets, MVMO features wide baselines between cameras and high density of objects, which lead to large disparities, heavy occlusions and view-dependent object appearance. Single view semantic segmentation is hindered by self and inter-object occlusions that could benefit from additional viewpoints. Therefore, we expect that MVMO will propel research in multi-view semantic segmentation and cross-view semantic transfer. We also provide baselines that show that new research is needed in such fields to exploit the complementary information of multi-view setups.
+    </p>
+</div>
+
+</br>
+
+<!--COMMTENTED BY AITOR-->
+<!--<div class="container">-->
+<!--  <h1>Approach</h1>-->
+<!--    <p><img src="resources/overview.png" height="360" align="middle" /></p>-->
+<!--    <p>Our model, USL, takes as input an RGB image, detects all objects in 2D and predicts their 3D location and shape via layout and shape heads, respectively. The output is a scene composed of all detected 3D objects. During training, the scene is differentiably rendered from other views and compared with the 2D ground truth. We use no 3D shape or layout supervision.</p>-->
+<!--</div>-->
+
+</br>
+
+<!--<div class="container">-->
+<!--  <h1>Results on Hypersim</h1>-->
+<!--    <p><img src="resources/video3d_vis_hypersim.gif" height="360" align="middle" /></p>-->
+<!--</div>-->
+
+<!--<div class="container">-->
+<!--  <h1>More Results on Hypersim</h1>-->
+<!--    <p><img src="resources/video3d_vis_hypersimb.gif" height="360" align="middle" /></p>-->
+<!--</div>-->
+
+</br>
+
+<div class="container">
+  <h1>Results on ShapeNet</h1>
+  <p><img src="resources/video3d_vis_shapenet.gif" height="200" align="middle" /></p>
+</div>
+
+</br>
+
+<div class="container">
+  <h1> Interactive 3D Models on ShapeNet</h1>
+  <!-- 3D model viewer -->
+  <table>
+    <tr>
+      <th style="width:30%" align="center">Input Image</th>
+      <th style="width:30%" align="center">USL</th>
+      <th style="width:30%" align="center">Mesh R-CNN</th>
+    </tr>
+    <tr>
+      <td align="center" width=30.0%><img src="resources/sceneshapenet/ex1/image.png" height="150"></td>
+      <td align="center" width=30.0%><model-viewer exposure="2" environment-image="neutral" interaction-prompt="when-focused" src="resources/sceneshapenet/ex1/scene.glb" shadow-intensity="1"camera-controls></model-viewer></td>
+      <td align="center" width=30.0%><model-viewer exposure="2" environment-image="neutral" interaction-prompt="when-focused" src="resources/sceneshapenet/ex1/meshrcnn_scene.glb" shadow-intensity="1" camera-controls></model-viewer></td>
+    </tr>
+    <tr>
+      <td align="center" width=30.0%><img src="resources/sceneshapenet/ex4/image.png" height="150"></td>
+      <td align="center" width=30.0%><model-viewer exposure="2" environment-image="neutral" interaction-prompt="when-focused" src="resources/sceneshapenet/ex4/scene.glb" shadow-intensity="1"camera-controls></model-viewer></td>
+      <td align="center" width=30.0%><model-viewer exposure="2" environment-image="neutral" interaction-prompt="when-focused" src="resources/sceneshapenet/ex4/meshrcnn_scene.glb" shadow-intensity="1" camera-controls></model-viewer></td>
+    </tr>
+    <tr>
+      <td align="center" width=30.0%><img src="resources/sceneshapenet/ex3/image.png" height="150"></td>
+      <td align="center" width=30.0%><model-viewer exposure="2" environment-image="neutral" interaction-prompt="when-focused" src="resources/sceneshapenet/ex3/scene.glb" shadow-intensity="1"camera-controls></model-viewer></td>
+      <td align="center" width=30.0%><model-viewer exposure="2" environment-image="neutral" interaction-prompt="when-focused" src="resources/sceneshapenet/ex3/meshrcnn_scene.glb" shadow-intensity="1" camera-controls></model-viewer></td>
+    </tr>
+    <tr>
+      <td align="center" width=30.0%><img src="resources/sceneshapenet/ex2/image.png" height="150"></td>
+      <td align="center" width=30.0%><model-viewer exposure="2" environment-image="neutral" interaction-prompt="when-focused" src="resources/sceneshapenet/ex2/scene.glb" shadow-intensity="1"camera-controls></model-viewer></td>
+      <td align="center" width=30.0%><model-viewer exposure="2" environment-image="neutral" interaction-prompt="when-focused" src="resources/sceneshapenet/ex2/meshrcnn_scene.glb" shadow-intensity="1" camera-controls></model-viewer></td>
+    </tr>
+    <tr>
+      <td align="center" width=30.0%><img src="resources/sceneshapenet/ex6/image.png" height="150"></td>
+      <td align="center" width=30.0%><model-viewer exposure="2" environment-image="neutral" interaction-prompt="when-focused" src="resources/sceneshapenet/ex6/scene.glb" shadow-intensity="1"camera-controls></model-viewer></td>
+      <td align="center" width=30.0%><model-viewer exposure="2" environment-image="neutral" interaction-prompt="when-focused" src="resources/sceneshapenet/ex6/meshrcnn_scene.glb" shadow-intensity="1" camera-controls></model-viewer></td>
+    </tr>
+  </table>
+</div>
+
+</br>
+
+<div class="container">
+  <h1> Paper</h1>
+  <table align=center width=600px height=250px>
+  <tr>
+    <td align=left width=300px><a href=""><img class="layered-paper-big" style="height:180px" src="./resources/paper_preview.png"/></a></td>
+    <td align=center width=500px style="color: #4d4b59; font-size:14pt">Gkioxari, Ravi, Johnson.<br><br>
+                Learning 3D Object Shape and Layout without 3D Supervision<br><br>
+                In CVPR 2022.<br><br>
+                <span style="font-size:20px"><a href="resources/bibtex.txt">[bibtex]</a></span>
+    </td>
+  </tr>
+  </table>
+</div>
+
+</br>
+
+<div class="containersmall">
+  <p>Contact: <a href="mailto:aitor.alvarez@tecnalia.com">Aitor Alvarez-Gila</a></p>
+</div>
+
+<!--<p align="center" class="acknowledgement">Last updated: 30 July 2012</p>-->
+</body>
+</html>

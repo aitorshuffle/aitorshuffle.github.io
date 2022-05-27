@@ -1,5 +1,4 @@
 FROM publications
-
 ---
 layout: archive
 title: "Projects"
