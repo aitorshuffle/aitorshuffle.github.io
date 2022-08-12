@@ -12,7 +12,7 @@ tags:
   - probabilistic programming
 ---
 					  
-Last Tuesday, July 19th 2022, I successfully defended my PhD dissertation at CVC (Barcelona), obtaining an _Excellent Cum Laude_ grade. The thesis is titled "Self-supervised learning for image-to-image translation in the small data regime" and was developed at [Computer Vision Center's](http://www.cvc.uab.es/) [Learning And Machine Perception (LAMP)](http://www.cvc.uab.es/lamp/) group and [Tecnalia](https://www.tecnalia.com/), under the supervision of Joost van de Weijer and Estibaliz Garrote. Many thanks to both!
+Last Tuesday, July 19th 2022, I successfully defended my PhD dissertation at CVC (Barcelona), obtaining an _Excellent Cum Laude_ grade. The thesis is titled "Self-supervised learning for image-to-image translation in the small data regime" and was developed at [Computer Vision Center's](http://www.cvc.uab.es/) [Learning And Machine Perception (LAMP)](http://www.cvc.uab.es/lamp/) team and [Tecnalia](https://www.tecnalia.com/), under the supervision of Joost van de Weijer and Estibaliz Garrote. Many thanks to both!
 
 Get the [PhD thesis manuscript]({{ site.url }}/files/20220719_phd_defence/AitorAlvarezGilaThesisV1.pdf).
 
