@@ -20,8 +20,9 @@ Get the [slides of the presentation]({{ site.url }}/files/20220719_phd_defence/2
 
 Watch the [video of the presentation (soon available)](http://www.cvc.uab.es/cvctv/?id=348).
  
-![fig1]({{ site.url }}/images/20220719_aitor_alvarez_phd.jpg)
 ![fig2]({{ site.url }}/images/20220719_aitor_alvarez_phd_defence.jpg)
+![fig1]({{ site.url }}/images/20220719_aitor_alvarez_phd.jpg)
+
 
  
 
