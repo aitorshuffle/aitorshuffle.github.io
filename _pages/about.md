@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="text-align: justify">
+
 This is Aitor Alvarez-Gila's personal webpage.
 
 I am a senior researcher at [Tecnalia](http://www.tecnalia.com/)'s [Computer Vision Group](http://www.computervisionbytecnalia.com/en/).
@@ -21,3 +23,4 @@ In past lives, I've also been a consultant in a dark suit working for multinatio
 
 Even before that, I did some research on network security at the University of the Basque Country, where I first graduated as Telecommunications Engineer (2005). 
  
+</div>
