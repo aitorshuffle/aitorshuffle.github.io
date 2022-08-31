@@ -13,7 +13,7 @@ I am a senior researcher at [Tecnalia](http://www.tecnalia.com/)'s [Computer Vis
 My main research interests are deep learning and other machine learning / computer vision models for image understanding, computational color and spectral imaging.
 I have been building stuff that works based on these and other techniques (3D reconstruction, image enhancement for adverse weather, radiometry, etc.) since 2010 for biomedical, steelmaking, agro and packaging industries, among others.
 
-I got my PhD on deep learning in July 2022 from Universitat Autònoma de Barcelona (UAB). [The thesis]({{ site.url }}/_posts/2022-07-19-phd_defence.md) was developed at [Computer Vision Center](http://www.cvc.uab.es/)'s [LAMP (Learning And Machine Perception)](http://www.cvc.uab.es/LAMP/) team, under the supervision of Joost van de Weijer (CVC) and Estibaliz Garrote (Tecnalia). 
+I got my PhD on deep learning in July 2022 from Universitat Autònoma de Barcelona (UAB). [The thesis](https://aitorshuffle.github.io/posts/2022/07/phddefence/) [The thesis]({{ site.url }}/posts/2022/07/phddefence/) was developed at [Computer Vision Center](http://www.cvc.uab.es/)'s [LAMP (Learning And Machine Perception)](http://www.cvc.uab.es/LAMP/) team, under the supervision of Joost van de Weijer (CVC) and Estibaliz Garrote (Tecnalia). 
  
 Prior to that, I completed the [Erasmus Mundus CIMET Master (Color in Informatics and Media Technology)](https://master-colorscience.eu/programme/cimet-master-degree/) in color science and computer vision and made research stays at the Universities of Granada (ES), Saint-Etienne (FR), Gjøvik (NO) and Amsterdam (NL) from 2008 until 2010.
 
