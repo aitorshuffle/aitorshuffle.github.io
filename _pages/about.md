@@ -10,8 +10,8 @@ redirect_from:
 This is Aitor Alvarez-Gila's personal webpage.
 
 I am a lead researcher at [Tecnalia](https://www.tecnalia.com/en/)'s [Computer Vision and Visual Interaction group](https://www.tecnalia.com/en/technologies/computer-vision-and-visual-interaction).
-My main research interests are deep learning and other machine learning / computer vision models for image and 3D understanding, and spectral imaging. **UPDATE 2023** I now also care about multimodal (e.g. Vision & Language) models and the latest trends in generative deep learning and 3D neural scene representations (e.g. NeRF, 3D Gaussians), of course, who doesn't?
-I have been building stuff that works based on these and other techniques (3D reconstruction, image enhancement for adverse weather, radiometry, etc.) since 2010 for biomedical, steelmaking, agro and packaging industries, among others.
+My main research interests are deep learning and other machine learning / computer vision models for image and 3D understanding, and spectral imaging. **UPDATE 2022:** I now also care about multimodal (e.g. Vision & Language) models and the latest trends in generative deep learning and 3D neural scene representations (e.g. NeRF, 3D Gaussians), of course, who doesn't?
+Anyway, I have been building stuff that works based on these and other techniques (3D reconstruction, image enhancement for adverse weather, radiometry, etc.) since 2010 for biomedical, steelmaking, agro and packaging industries, among others.
 
 I got my PhD on deep learning in July 2022 from Universitat Autònoma de Barcelona (UAB). [The thesis]({{ site.url }}/posts/2022/07/phddefence/) was developed at [Computer Vision Center](http://www.cvc.uab.es/)'s [LAMP (Learning And Machine Perception)](http://www.cvc.uab.es/LAMP/) team, under the supervision of Joost van de Weijer (CVC) and Estibaliz Garrote (Tecnalia). 
  
