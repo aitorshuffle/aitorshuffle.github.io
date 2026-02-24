@@ -19,6 +19,7 @@ Abstract:
 
 Bibtex:
 
+{% raw %}
 ```
 @inproceedings{picon_deteccion_2017,
   location = {{Bilbao, Spain}},
@@ -31,3 +32,4 @@ Bibtex:
   author = {Picon, Artzai and Irusta, Unai and Alvarez-Gila, Aitor and Aramendi, Elisabete and Garrote, Estibaliz and Ayala, Unai and Alonso, Felipe and Figuera, Carlos}
 }
 ```
+{% endraw %}

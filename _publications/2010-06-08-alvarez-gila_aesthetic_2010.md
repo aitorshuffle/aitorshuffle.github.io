@@ -16,6 +16,7 @@ Abstract:
 
 Bibtex: 
 
+{% raw %}
 ```
 @inproceedings{alvarez-gila_aesthetic_2010,
   address = {Gj{\o}vik University College, Gj{\o}vik, Norway},
@@ -30,3 +31,4 @@ Bibtex:
   pages = {1-5}
 }
 ```
+{% endraw %}

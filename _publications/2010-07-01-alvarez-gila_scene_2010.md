@@ -15,6 +15,7 @@ Abstract:
 
 Bibtex: 
 
+{% raw %}
 ```
 @phdthesis{aitoralvarez-gila_scene_2010,
   address = {G{\o}vik, Norway},
@@ -30,3 +31,4 @@ Our approach aims to go one step further in the understanding of the image conte
   year = {2010},
 }
 ```
+{% endraw %}

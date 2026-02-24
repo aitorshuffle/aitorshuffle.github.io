@@ -5,8 +5,7 @@ permalink: /publication/2022-10-19-alvarez_gila_mvmo_icip_2022
 date: 2022-10-19
 venue: 'IEEE International Conference on Image Processing (ICIP)'
 paperurl: 'https://doi.org/10.1109/ICIP46576.2022.9897955'
-citation: 'A. Alvarez-Gila, J. van de Weijer, Y. Wang, and E. Garrote, "MVMO: A Multi-Object Dataset for Wide Baseline Multi-View Semantic Segmentation," ICIP 2022.
-'
+citation: 'A. Alvarez-Gila, J. van de Weijer, Y. Wang, and E. Garrote, "MVMO: A Multi-Object Dataset for Wide Baseline Multi-View Semantic Segmentation," ICIP 2022.'
 
 ---
 
@@ -20,6 +19,7 @@ Abstract:
 
 Bibtex:
 
+{% raw %}
 ```
 @inproceedings{alvarez_gila_mvmo_icip_2022,
   title = {MVMO: A Multi-Object Dataset for Wide Baseline Multi-View Semantic Segmentation},
@@ -31,3 +31,4 @@ Bibtex:
   month = oct
 }
 ```
+{% endraw %}
